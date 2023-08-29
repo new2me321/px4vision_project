@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>project</name>
+  <name>px4vision_project</name>
   <version>0.0.0</version>
   <description>The project package</description>
 
